@@ -1,5 +1,17 @@
-Mega Collection of PowerShell Scripts
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/569f433d-af07-427f-8a6a-d6f39370be32" />Mega Collection of PowerShell Scripts
 =====================================
+Copyright (C) 2026  Toura Sami (Partner/Architect of QOSami-os)
+
+    This program is free software: you can redistribute it and/or modify
+    it under the terms of the GNU General Public License as published by
+    the Free Software Foundation, either version 3 of the License, or
+    (at your option) any later version.
+
+    This program is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+    GNU General Public License for more details.
+
 
 **Contains 600+ free and stand-alone PowerShell scripts for Linux, macOS, and Windows. Useful on the command-line (CLI), for remote control via SSH, for automation (e.g. on startup/shutdown/login/logoff/daily/hourly or via AutoHotkey/[GUI](gui/README.md)/Jenkins/[voice commands](https://github.com/fleschutz/talk2windows)), for context menus, or simply to learn PowerShell. All scripts are located in the 📁[scripts](scripts/) subfolder and support Unicode for a modern console like *Windows Terminal*.**
 
